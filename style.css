@@ -1,0 +1,26 @@
+.body{
+    margin: 28px;
+    padding:50%;
+    border:100px ;
+    border-color: black;
+
+}
+.link{
+    border-radius: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: cyan;
+}
+.link :hover{
+    background-color:rgb(39, 122, 84) ;
+    border-color:transparent ;
+    border-radius: 100%;
+    border-bottom: solid;
+}
+.text{
+    color:rgb(184, 32, 32);
+}
+.text1{
+    scrollbar-highlight-color: blue;
+}
+
